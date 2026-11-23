@@ -1,6 +1,6 @@
 # Business Logic
 
-> Development of a/an `<Platform>` `<App/Software Type>` using `<Tech Stack>` for `<Userbase>`
+> Development of a Web-based En Passant Atlas: a visual chess-learning journal using Next.js for beginner players and school chess clubs
 
 - Allowed Platforms: Web, Android
 
